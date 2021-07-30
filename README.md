@@ -1,4 +1,4 @@
-# task_manager_api
+# Task_manager_api
 # Info
 This project demonstrates simple use of REST API to create a todo app and store in database with authentication and authorization features encorporated using JWT.
 # Demo
